@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Swethapriyadarshni 👋
 
-<!--
-**Swethapriyadarshni-DataAnalyst/Swethapriyadarshni-DataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science Graduate (CGPA: 9.2)
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about transforming data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Former Program Analyst and Junior Software Engineer with experience in problem-solving and business processes.
+
+🛠 Skills:
+- SQL
+- Power BI
+- Python
+- Excel
+- Tableau
+- Data Visualization
+- Data Cleaning
+- Dashboard Development
+
+📈 Featured Projects:
+- E-Commerce Sales Dashboard
+- HR Analytics Dashboard
+- Netflix Data Analysis
+- Customer Segmentation Analysis
+- Financial KPI Dashboard
+
+🌱 Currently Learning:
+- Advanced SQL
+- Data Modeling
+- Statistics for Analytics
